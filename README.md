@@ -26,3 +26,4 @@
 
 <p><img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishak2001&show_icons=true&locale=en&layout=compact&theme=dark&custom_title=Genutze Sprachen" alt="ishak2001" /></p>
 
+<p><img width="42%" align="left" src="https://github-readme-stats.vercel.app/api?username=ishak2001&show_icons=true&theme=dark&locale=de" /></p>
