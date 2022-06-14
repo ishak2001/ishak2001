@@ -6,8 +6,8 @@
 <ul>
   <li>🔭 I’m currently working on
     <ul>
-      <li>Elderfun.de</li>
-      <li>Ugurlu.de</li>
+      <li>Elderfun.de (coming soon)</li>
+      <li>Ugurlu.de (coming soon)</li>
     </ul>
   </li>
 </ul>
