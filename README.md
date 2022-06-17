@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ishak Ugurlu</h1>
-<h3 align="center">Does something with network, server and development</h3>
+<h3 align="center">Does something with network, server, development and school projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishak2001&label=Profile%20views&color=0e75b6&style=flat" alt="ishak2001" /> </p>
 
