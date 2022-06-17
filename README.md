@@ -17,7 +17,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/__derkaiser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__derkaiser" height="30" width="40" /></a>
+<a href="https://twitter.com/__derkaiser" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__derkaiser" height="30" width="40" /></a>
 <a href="https://discord.elderfun.de" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.elderfun.de" height="30" width="40" /></a>
 </p>
 
