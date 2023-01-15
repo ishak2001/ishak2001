@@ -6,8 +6,8 @@
 <ul>
   <li>🔭 I’m currently working on
     <ul>
-      <li>Elderfun.de (coming soon)</li>
-      <li>Ugurlu.de (coming soon)</li>
+      <li>Elderfun.de (Wartungsarbeit / maintenance)</li>
+      <li>Ugurlu.de (Wartungsarbeit / maintenance)</li>
     </ul>
   </li>
 </ul>
