@@ -7,7 +7,7 @@
   <li>🔭 I’m currently working on
     <ul>
       <li>Elderfun.de (Wartungsarbeit / maintenance)</li>
-      <li>Ugurlu.de (Wartungsarbeit / maintenance)</li>
+      <li><a href="https://ugurlu.de" target="_blank">Ugurlu.de</a></li>
     </ul>
   </li>
 </ul>
