@@ -7,12 +7,19 @@
   <li>🔭 I’m currently working on
     <ul>
       <li>Elderfun.de (Wartungsarbeit / maintenance)</li>
-      <li><a href="https://ugurlu.de" target="_blank">Ugurlu.de</a></li>
     </ul>
   </li>
 </ul>
 
 - 🌱 I’m currently learning **Networking, Flutter, Java, C++**
+</ul>
+
+<ul>
+  <li>🌐 My websites</li>
+  <ul>
+    <li><a href="https://ugurlu.de" target="_blank">ugurlu.de</a></li>
+    <li><a href="https://link.ugurlu.de" target="_blank">link.ugurlu.de</a></li>
+  </ul>
 </ul>
   
 <h3 align="left">Connect with me:</h3>
