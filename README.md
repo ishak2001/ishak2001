@@ -11,7 +11,7 @@
   </li>
 </ul>
 
-- 🌱 I’m currently learning **Networking, Flutter, Java, C++**
+- 🌱 I’m currently learning **Networking, Flutter**
 </ul>
 
 <ul>
