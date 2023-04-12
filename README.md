@@ -6,7 +6,7 @@
 <ul>
   <li>🔭 I’m currently working on
     <ul>
-      <li>Elderfun.de (Wartungsarbeit / maintenance)</li>
+      <li>ugurlu.de (Wartungsarbeit / maintenance)</li>
     </ul>
   </li>
 </ul>
@@ -17,7 +17,6 @@
 <ul>
   <li>🌐 My websites</li>
   <ul>
-    <li><a href="https://ugurlu.de" target="_blank">ugurlu.de</a></li>
     <li><a href="https://link.ugurlu.de" target="_blank">link.ugurlu.de</a></li>
   </ul>
 </ul>
