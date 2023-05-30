@@ -6,7 +6,9 @@
 <ul>
   <li>🔭 I’m currently working on
     <ul>
+      <li>eurowaytransport.de (Wartungsarbeit / maintenance)</li>
       <li>elderfun.de (Wartungsarbeit / maintenance)</li>
+      <li>goldpfote.net (Wartungsarbeit / maintenance)</li>
     </ul>
   </li>
 </ul>
