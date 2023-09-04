@@ -27,7 +27,7 @@
   <ul>
     <li><a href="https://eurowaytransport.de" target="_blank">eurowaytransport.de</a></li>
 
-li><a href="https://goldpfote.net" target="_blank">goldpfote.net</a></li>
+<li><a href="https://goldpfote.net" target="_blank">goldpfote.net</a></li>
   </ul>
 </ul>
   
