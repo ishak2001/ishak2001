@@ -7,7 +7,6 @@
   <li>🔭 I’m currently working on
     <ul>
       <li>eurowaylogistik.de (Wartungsarbeit / maintenance)</li>
-      <li>goldpfote.net (Wartungsarbeit / maintenance)</li>
     </ul>
   </li>
 </ul>
@@ -27,6 +26,8 @@
   <li>📌 Created websites</li>
   <ul>
     <li><a href="https://eurowaytransport.de" target="_blank">eurowaytransport.de</a></li>
+
+li><a href="https://goldpfote.net" target="_blank">goldpfote.net</a></li>
   </ul>
 </ul>
   
