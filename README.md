@@ -18,6 +18,7 @@
   <li>🌐 My websites</li>
   <ul>
     <li><a href="https://ugurlu.de" target="_blank">ugurlu.de</a></li>
+    <li><a href="https://link.ugurlu.de" target="_blank">link.ugurlu.de</a></li>
   </ul>
 </ul>
 
@@ -25,8 +26,6 @@
   <li>📌 Created websites</li>
   <ul>
     <li><a href="https://eurowaytransport.de" target="_blank">eurowaytransport.de</a></li>
-
-<li><a">eurowaylogistik.de (Wartungsarbeit / maintenance)</a></li>
   </ul>
 </ul>
   
