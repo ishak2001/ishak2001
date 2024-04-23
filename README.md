@@ -27,7 +27,7 @@
   <ul>
     <li><a href="https://eurowaytransport.de" target="_blank">eurowaytransport.de</a></li>
 
-<li><a href="#" target="_blank">eurowaylogistik.de (Wartungsarbeit / maintenance)</a></li>
+<li><a">eurowaylogistik.de (Wartungsarbeit / maintenance)</a></li>
   </ul>
 </ul>
   
