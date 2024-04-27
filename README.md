@@ -23,13 +23,6 @@
   </ul>
 </ul>
 
-<ul>
-  <li>📌 Created websites</li>
-  <ul>
-    <li><a href="https://eurowaytransport.de" target="_blank">eurowaytransport.de</a></li>
-  </ul>
-</ul>
-
 ## 🔗 Connect with me:
 
   <a href="https://discord.gg/https://discord.gg/user/ishak2001" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&amp;logoColor=white" alt="Discord"></a>
