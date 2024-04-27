@@ -10,8 +10,9 @@
     </ul>
   </li>
 </ul>
-
-- 🌱 I’m currently learning **Networking, Flutter**
+<ul>
+  <li>🌱 I’m currently learning Networking, Flutter</li>
+</ul>
 </ul>
 
 <ul>
@@ -28,17 +29,42 @@
     <li><a href="https://eurowaytransport.de" target="_blank">eurowaytransport.de</a></li>
   </ul>
 </ul>
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/__derkaiser" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__derkaiser" height="30" width="40" /></a>
-<a href="https://discord.elderfun.de" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.elderfun.de" height="30" width="40" /></a>
+
+## 🔗 Connect with me:
+
+  <a href="https://discord.gg/https://discord.gg/user/ishak2001" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&amp;logoColor=white" alt="Discord"></a>
+  <a href="https://instagram.com/ishak2001" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
+
+## 💻 Languages and Tools:
+<p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&amp;logo=windows-terminal&amp;logoColor=white" alt="Windows Terminal">
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Shell Script">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache">
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=white" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20Premiere%20Pro&amp;logoColor=white" alt="Adobe Premiere Pro">
+  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&amp;logo=gimp&amp;logoColor=FFFFFF" alt="Gimp">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&amp;logo=Adobe%20Acrobat%20Reader&amp;logoColor=white" alt="Adobe Acrobat Reader">
+  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&amp;logo=Raspberry-Pi" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&amp;logo=pi-hole&amp;logoColor=white" alt="Pi-Hole">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br>
 
-
+## 📊 GitHub Stats:
 <p><img width="41%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishak2001&layout=compact&show_icons=true&theme=dark&locale=de" /></p>
-
 <p><img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=ishak2001&show_icons=true&theme=dark&locale=de" /></p>
