@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishak2001&label=Profile%20views&color=0e75b6&style=flat" alt="ishak2001" /> </p>
 
-<ul>
-  <li>🔭 I’m currently working on
-    <ul>
-      <li>eurowaylogistik.de (Wartungsarbeit / maintenance)</li>
-    </ul>
-  </li>
-</ul>
+
 <ul>
   <li>🌱 I’m currently learning Networking, Flutter</li>
 </ul>
